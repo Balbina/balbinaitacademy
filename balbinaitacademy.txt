@@ -1,1 +1,2 @@
-Quest és el file .txt 
+Aquest és el file .txt
+faig una modificació més
