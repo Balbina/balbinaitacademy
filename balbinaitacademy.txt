@@ -1,2 +1,7 @@
-Aquest és el file .txt
+<<<<<<< HEAD
+
 faig una modificació més
+=======
+
+Modificar text des de la branch1
+>>>>>>> branch1
